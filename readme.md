@@ -1,6 +1,20 @@
 # ALIBIS: Assessing and mitigating the risk of sensitive metadata Leakage In moBile Image Sharing 
 ## 1. Citation
 If you use ALIBIS results, please cite the following information. Thank you.
+```bibtex
+@INPROCEEDINGS{10912621,
+  @article{NGUYEN2026102171,
+    title = {ALIBIS: Assessing and mitigating the risk of sensitive metadata Leakage In moBile Image Sharing},
+    journal = {Pervasive and Mobile Computing},
+    volume = {117},
+    pages = {102171},
+    year = {2026},
+    issn = {1574-1192},
+    doi = {https://doi.org/10.1016/j.pmcj.2026.102171},
+    url = {https://www.sciencedirect.com/science/article/pii/S157411922600012X},
+    author = {Tran Thanh Lam Nguyen and Barbara Carminati and Elena Ferrari}
+}
+```
 ## 2. Introduction
 
 This is the source code of the paper **ALIBIS: Assessing and mitigating the risk of sensitive metadata Leakage In moBile Image Sharing**.
